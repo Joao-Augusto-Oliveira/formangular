@@ -1,27 +1,63 @@
-# A11yP1
+<div align="center">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.0.
+<h3>
 
-## Development server
+Projeto (em desenvolvimento) do Curso de Design de componentes com acessibilidade promovido pela [Alura], utilizando **HTML**, **SASS**, **Typescript** e **Angular**.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+</h3>
 
-## Code scaffolding
+</div>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<br>
 
-## Build
+## 📚 **Sobre**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Aplicação consiste num formulário com screen reader, voltado para usuários que necessitam de acessbilidade.
 
-## Running unit tests
+Principais tópicos debatidos:
+- Diretivas sofisticadas de controle de keyboard;
+- WCAG (Web Content Accessibility);
+- Integração com Reactive Forms;
+- Leitores de tela;
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<br>
 
-## Running end-to-end tests
+### 📌  **Tecnologias utilizadas**
+- Angular
+- TypeScript
+- Sass
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+<br>
+<br>
 
-## Further help
+### 🚀 **Mão na massa**
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+```bash
+# Clone este repositório
+$ git clone https://github.com/Joao-Augusto-Oliveira/formangular
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd formangular
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ ng s -o
+
+
+```
+
+<br>
+<br>
+
+<h3 align="center">
+Feito com 💜 por <a href="https://www.linkedin.com/in/joão-augusto-oliveira-dos-santos-9b0693195">João Augusto</a>
+<br><br> 
+</h3>
+
+<!-- Links -->
+
+[Alura]: https://www.alura.com.br//
+
+
